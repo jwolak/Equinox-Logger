@@ -15,9 +15,9 @@ Logger with to support logging to file, console or both. Three levels avaliable:
 - powered by C++11
 
 
-### Building for source
+## Building for source
 
-For EquinoxLoggerDemo:
+###### For EquinoxLoggerDemo:
 
 ```sh
 cd Build/
@@ -25,7 +25,7 @@ cmake CMakeLists.txt
 make
 ```
 
-For UnitTests:
+###### For UnitTests:
 
 ```sh
 cd UnitTests/Build
