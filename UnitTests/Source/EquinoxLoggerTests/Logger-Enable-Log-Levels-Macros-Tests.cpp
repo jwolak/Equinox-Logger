@@ -42,7 +42,7 @@
 #include <memory>
 #include <string>
 
-#include "../../../TensionCPU/Source/EquinoxLogger/Logger.h"
+#include "../../../Source/EquinoxLogger/Logger.h"
 
 namespace logger_enable_log_levels_macros_tests{
 

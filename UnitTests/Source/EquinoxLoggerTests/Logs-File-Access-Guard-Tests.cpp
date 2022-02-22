@@ -44,7 +44,7 @@
 #include <thread>
 #include <future>
 
-#include "../../../TensionCPU/Source/EquinoxLogger/Logs-File-Access-Guard.cpp"
+#include "../../../Source/EquinoxLogger/Logs-File-Access-Guard.cpp"
 
 namespace logs_file_access_guard_tests {
 

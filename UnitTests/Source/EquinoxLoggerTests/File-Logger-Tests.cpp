@@ -46,8 +46,8 @@
 #include <fstream>
 #include <sstream>
 
-#include "../../../TensionCPU/Source/EquinoxLogger/File-Logger.cpp"
-#include "../../../TensionCPU/Source/EquinoxLogger/Log-Level-Type.h"
+#include "../../../Source/EquinoxLogger/File-Logger.cpp"
+#include "../../../Source/EquinoxLogger/Log-Level-Type.h"
 
 namespace file_logger_tests {
 

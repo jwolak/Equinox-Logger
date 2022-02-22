@@ -5,9 +5,9 @@ find_package(GTest REQUIRED)
 include_directories(${GTEST_INCLUDE_DIRS})
 
 
-# Link runTests with what we want to test and the GTest and pthread library
-add_executable(runTests.x86
+# Link runEquinoxLoggerTests with what we want to test and the GTest and pthread library
+add_executable(runEquinoxLoggerTests.x86
 ../Source/Main-Tests-Run.cpp)
 
-target_link_libraries(runTests.x86 ${GTEST_LIBRARIES} pthread)
-target_link_libraries(runTests.x86 ${GTEST_LIBRARIES} gmock)
+target_link_libraries(runEquinoxLoggerTests.x86 ${GTEST_LIBRARIES} pthread)
+target_link_libraries(runEquinoxLoggerTests.x86 ${GTEST_LIBRARIES} gmock)

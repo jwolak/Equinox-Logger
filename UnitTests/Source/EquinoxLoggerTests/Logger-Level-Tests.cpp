@@ -41,7 +41,7 @@
 
 #include <memory>
 
-#include "../../../TensionCPU/Source/EquinoxLogger/Logger-Level.cpp"
+#include "../../../Source/EquinoxLogger/Logger-Level.cpp"
 
 namespace logger_level_tests {
 

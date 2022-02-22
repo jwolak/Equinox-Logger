@@ -1,9 +1,0 @@
-Tue Feb 22 15:17:38 2022 [ERROR]: Test log
-Tue Feb 22 15:18:56 2022 [ERROR]: Test log
-Tue Feb 22 15:18:56 2022 [WARNING]: test string 4 3.500000
-Tue Feb 22 15:20:25 2022 [ERROR]: Test log
-Tue Feb 22 15:20:25 2022 [WARNING]: Values:  4 3.500000
-Tue Feb 22 15:20:25 2022 [DEBUG]: Debug: 4.500000
-Tue Feb 22 15:21:09 2022 [ERROR]: Test log
-Tue Feb 22 15:21:09 2022 [WARNING]: Values:  4 3.500000
-Tue Feb 22 15:21:09 2022 [DEBUG]: Debug text: 4.500000 post debug text

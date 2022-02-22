@@ -42,8 +42,8 @@
 #include <memory>
 #include <string>
 
-#include "../../../TensionCPU/Source/EquinoxLogger/Console-Logger.cpp"
-#include "../../../TensionCPU/Source/EquinoxLogger/Logger-Time.cpp"
+#include "../../../Source/EquinoxLogger/Console-Logger.cpp"
+#include "../../../Source/EquinoxLogger/Logger-Time.cpp"
 
 namespace console_logger_tests {
 

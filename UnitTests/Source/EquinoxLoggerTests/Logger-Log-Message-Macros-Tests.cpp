@@ -42,7 +42,7 @@
 #include <memory>
 #include <string>
 
-#include "../../../TensionCPU/Source/EquinoxLogger/Logger.cpp"
+#include "../../../Source/EquinoxLogger/Logger.cpp"
 
 
 namespace logger_log_macros_tests{
