@@ -1,5 +1,5 @@
 # Equinox logging engine
-## Thread safty C++ logger with C-style MACRO interface
+**Thread safty C++ logger with C-style MACRO interface**
 
 Logger with to support logging to file, console or both. Three levels avaliable: 
 - Error, 
