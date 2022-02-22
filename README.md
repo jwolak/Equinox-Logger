@@ -1,11 +1,11 @@
 # Equinox logging engine
 ## Thread safty C++ logger with C-style MACRO interface
 
-Logger with to support logging to file, console or both. Three levelsavaliable: 
+Logger with to support logging to file, console or both. Three levels avaliable: 
 - Error, 
 - Warning, 
 - Debug.
-..and can be disabled
+- Disabled
 
 ## Features
 
@@ -35,7 +35,9 @@ make
 ## Example:
 
 Include "EquinoxLogger/Logger.h" to your source code:
-
+```sh
+See: Source/main.cpp
+```
 ```sh
 #include "EquinoxLogger/Logger.h"
 
