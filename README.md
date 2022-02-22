@@ -14,7 +14,8 @@ Logger with to support logging to file, console or both. Three levels avaliable:
 - interface as enjoyable C-style macros
 - powered by C++11
 
-#### Building for source
+
+### Building for source
 
 For EquinoxLoggerDemo:
 
@@ -27,8 +28,7 @@ make
 For UnitTests:
 
 ```sh
-cd UnitTests/
-cd Build
+cd UnitTests/Build
 cmake CMakeLists.txt
 make
 ```
@@ -50,29 +50,15 @@ int main(void) {
   LOG_WARNING("%s %d %f", "Values: ", 4, 3.5f);
   LOG_DEBUG("Debug text: %f %s", 4.5, "post debug text");
 
-	return 0;
+  return 0;
 }
 ```
 ## License
 
-**Free Software, Hell Yeah!**
+**Free Software**
 
 BSD 3-Clause License
 
 Copyright (c) 2022, Janusz Wolak
 All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
 
