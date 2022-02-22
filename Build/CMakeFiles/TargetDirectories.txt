@@ -1,3 +1,0 @@
-/home/janusz/Downloads/Equinox-Logger/Build/CMakeFiles/edit_cache.dir
-/home/janusz/Downloads/Equinox-Logger/Build/CMakeFiles/rebuild_cache.dir
-/home/janusz/Downloads/Equinox-Logger/Build/CMakeFiles/EquinoxLoggerDemo.x86.dir

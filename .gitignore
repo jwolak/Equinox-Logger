@@ -52,10 +52,10 @@
 .gdb_*
 
 #direcory
-TensionCPU/Build/CMakeCache.txt
-TensionCPU/Build/CMakeFiles/
-TensionCPU/Build/Makefile
-TensionCPU/Build/cmake_install.cmake
+Build/CMakeCache.txt
+Build/CMakeFiles/
+Build/Makefile
+Build/cmake_install.cmake
 
 UnitTests/Build/CMakeCache.txt
 UnitTests/Build/CMakeFiles/
