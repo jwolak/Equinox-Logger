@@ -55,7 +55,7 @@ int main(void) {
 ```
 ## License
 
-**BSD 3-Clause License**
-**Copyright (c) 2022, Janusz Wolak**
+**BSD 3-Clause License **
+**Copyright (c) 2022, Janusz Wolak, **
 **All rights reserved.**
 
