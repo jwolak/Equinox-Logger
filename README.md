@@ -2,9 +2,9 @@
 **Thread safety C++ logger with C-style MACRO interface**
 
 **Logger with to support logging to file, console or both. Four levels avaliable:**
-- Error, 
-- Warning, 
-- Debug.
+- Error 
+- Warning
+- Debug
 - Disabled
 
 ## Features

@@ -51,11 +51,16 @@
 .gdb_history
 .gdb_*
 
+#logs files
+.log
+.logs
+
 #direcory
 Build/CMakeCache.txt
 Build/CMakeFiles/
 Build/Makefile
 Build/cmake_install.cmake
+Build/logs.log
 
 UnitTests/Build/CMakeCache.txt
 UnitTests/Build/CMakeFiles/

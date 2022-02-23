@@ -50,9 +50,12 @@ namespace equinox_logger {
 
 class ConsoleLogger : public IConsoleLogger {
  public:
-  ConsoleLogger(std::shared_ptr<ILoggerTime> logger_time) : logger_time_{logger_time} {}
+  ConsoleLogger(std::shared_ptr<ILoggerTime> logger_time)
+      :
+      logger_time_ { logger_time } {
+  }
   ~ConsoleLogger() = default;
-  void LogMessage(LogLevelType message_type, std::string& message) const override;
+  void LogMessage(LogLevelType message_type, std::string &message) const override;
 
  private:
   std::shared_ptr<ILoggerTime> logger_time_;
