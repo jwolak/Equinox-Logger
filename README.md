@@ -3,6 +3,7 @@
 
 ***To version written in C, please visit: https://github.com/jwolak/EquinoxC-Logger***
 
+
 **Logger with support logging to file, console or both. Four levels avaliable:**
 - Error 
 - Warning
