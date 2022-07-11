@@ -1,9 +1,7 @@
 cmake_minimum_required(VERSION 2.8.9)
 set(CMAKE_CXX_STANDARD 11)
 project (EquinoxLoggerDemo)
-add_executable(EquinoxLoggerDemo.x86 
-
-../Source/main.cpp 
+add_library(EquinoxCLogger STATIC 
 
 #interfaces
 ../Source/EquinoxLogger/IFile-Logger.h
